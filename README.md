@@ -68,7 +68,8 @@ Testing the webserver.
         </tr>
     </table>
 </body>
-</html>```
+</html>
+```
 # OUTPUT:
 ![Screenshot 2024-12-07 161432](https://github.com/user-attachments/assets/4829c677-6e5f-4731-9ac7-548d43f29b9d)
 ![Screenshot 2024-12-07 182227](https://github.com/user-attachments/assets/5cb00d35-717d-4c0f-9c0b-169220a9f929)
